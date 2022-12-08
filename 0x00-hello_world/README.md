@@ -1,0 +1,1 @@
+This project aims to navigate the C programming language and writing scripts.
