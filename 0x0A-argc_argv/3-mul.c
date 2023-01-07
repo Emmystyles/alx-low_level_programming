@@ -13,7 +13,7 @@ int main(int argc, char **argv)
 
 {
 
-int num1, num2, result;
+int var1, var2, result;
 
 if (argc != 3)
 
@@ -29,13 +29,13 @@ else
 
 {
 
-num1 = atoi(argv[1]);
+var1 = atoi(argv[1]);
 
-num2 = atoi(argv[2]);
+var2 = atoi(argv[2]);
 
-result = num1 * num2;
+output = var1 *var2;
 
-printf("%d\n", result);
+printf("%d\n", output);
 
 return (0);
 
