@@ -1,5 +1,5 @@
 #include <stdio.h>
-x#include <stdlib.h>
+#include <stdlib.h>
 /**
  * main - check the code for Holberton School students.
  * @argc: argument count.
